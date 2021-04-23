@@ -31,7 +31,7 @@ app.post('api/notes', (req, res) => {
         const newNote = req.body;
 
                // Sets max notes
-               let highestId = 99; 
+               let highestId = 99;  
                // sets up our notes list
                for (let i = 0; i < database.length; i++) {
                    let individualNote = database[i];
