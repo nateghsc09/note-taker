@@ -12,4 +12,4 @@ Using express.js we were able to set up a server and store the information from 
 
 
 
-<img src="./assets/screenshot.jpg"></img>
+<img src="./Assets/screenshot.jpg"></img>
